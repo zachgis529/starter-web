@@ -17,3 +17,7 @@ Deploy on any web server or even local file system.
 ##How to Contribute
 
 blah
+
+###Copyright
+
+2016 Git.Training
