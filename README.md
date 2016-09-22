@@ -16,7 +16,7 @@ Deploy on any web server or even local file system.
 
 ##How to Contribute
 
-blah
+Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
 
